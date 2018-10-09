@@ -23,5 +23,6 @@ li{
 }
 li:hover{
     cursor: pointer;
+    border-radius: 10px;
     background: #333;
 }
